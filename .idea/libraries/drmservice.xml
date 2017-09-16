@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="drmservice">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/drmservice.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

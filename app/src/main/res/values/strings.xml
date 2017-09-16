@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DrmMan</string>
+    <string name="action_settings">Settings</string>
+    <string name="username">用户:</string>
+    <string name="pwd">密码:</string>
+    <string name="ri">授权服务器:</string>
+    <string name="cid">节目ID:</string>
+    <string name="status">状态：</string>
+    <string name="count">播放次数：</string>
+    <string name="starttime">起始时间：</string>
+    <string name="endtime">结束时间：</string>
+    <string name="refresh">Load授权</string>
+    <string name="request_license">请求授权</string>
+
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\program\\android\\DrmMan\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "F:\\program\\android\\DrmMan\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\program\\android\\Drm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "F:\\program\\android\\Drm\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    }
+]

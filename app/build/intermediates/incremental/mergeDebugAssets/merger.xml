@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\program\android\Drm\app\src\main\assets"><file name="1.mp4" path="F:\program\android\Drm\app\src\main\assets\1.mp4"/><file name="12.mp4" path="F:\program\android\Drm\app\src\main\assets\12.mp4"/><file name="rico.p12" path="F:\program\android\Drm\app\src\main\assets\rico.p12"/></source><source path="F:\program\android\Drm\app\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="F:\program\android\Drm\app\src\debug\assets"/></dataSet></merger>

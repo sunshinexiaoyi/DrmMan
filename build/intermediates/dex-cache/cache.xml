@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="F:\program\android\Drm\app\libs\drmservice.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f5b278af8d65ecb6e11bb846bf828c86b2b65e11">
+        <dex dex="F:\program\android\Drm\app\build\intermediates\pre-dexed\debug\drmservice_0fc6241dd6c22a68f007e02a0a550f64a97c02fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\program\android\Drm\app\libs\GosSoapBean.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="b3ddd879e13d0e26da35420b066c1ee644c0d154">
+        <dex dex="F:\program\android\Drm\app\build\intermediates\pre-dexed\debug\GosSoapBean_476bd7a8fd7dbdfa041b5a6ccedac29ec1d796ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\program\android\Drm\app\libs\squashxml.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="86c7d316e1022cc854b1bd3973647d74794d4bc6">
+        <dex dex="F:\program\android\Drm\app\build\intermediates\pre-dexed\debug\squashxml_acbb3ab38914dbc76ccd032fa24e39c9543b6302.jar" />
+    </item>
+
+</items>
